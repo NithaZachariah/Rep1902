@@ -1,4 +1,4 @@
 #include<stdio.h>
 int main(){
-printf("Welcome to python")
+printf("Welcome to git hub");
 }
